@@ -81,7 +81,7 @@ export default function SignupPage() {
               {
                 value: "SELLER" as Role,
                 label: "Author",
-                desc: "Lend my books",
+                desc: "Seller Account",
                 icon: Feather,
               },
             ].map((opt) => (
